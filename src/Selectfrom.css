@@ -1,0 +1,51 @@
+select.form-select {
+    font-size: 15px;
+    border: 1px solid #e0d6d6;
+    border-radius: 7px;
+    height: 50px;
+    padding: 0px 0px 0px 17px;
+    color: var(--color-body);
+}
+
+select#class-signup {
+    font-size: 15px;
+    border: 1px solid #e0d6d6;
+    border-radius: 7px;
+    height: 50px;
+    padding: 0px 0px 0px 17px;
+    color: var(--color-body);
+    min-width: 180px;
+}
+
+select#class-myquestion {
+    font-size: 15px;
+    border: 1px solid #e0d6d6;
+    border-radius: 7px;
+    height: 50px;
+    padding: 0px 0px 0px 17px;
+    color: var(--color-body);
+    min-width: 185px;
+}
+
+/* msg error css <p>  */
+.error-msg {
+    text-align: left;
+    font-size: 16px;
+    color: #dc3545 !important;
+    text-transform: capitalize;
+}
+
+/* Referralhistory btn css */
+.refhistorybtn {
+    width: 100%;
+}
+
+/*Problemsolve*/
+img.pratical-based {
+    width: 400px;
+}
+
+/*Longtheory*/
+.icon-images {
+    margin: auto;
+}
